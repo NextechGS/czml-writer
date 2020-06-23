@@ -5,7 +5,7 @@
 czml-writer
 ===========
 
-This project has .NET and Java libraries for writing CZML content for use with [Cesium](https://cesiumjs.org/).  For a python library, see [czml](https://github.com/cleder/czml) by [@cleder](https://github.com/cleder).
+This project has .NET and Java libraries for writing CZML content for use with [NextechJS](https://github.com/NextechGS/NextechJS/).  For a python library, see [czml](https://github.com/cleder/czml) by [@cleder](https://github.com/cleder).
 
 See the [CZML specification](https://github.com/AnalyticalGraphicsInc/czml-writer/wiki/CZML-Guide) for more information on the structure of CZML.
 
@@ -23,7 +23,7 @@ Binary releases are [available on NuGet](https://www.nuget.org/packages/CesiumLa
 
 #### Java
 
-Binary releases are available for download on the [releases page](https://github.com/AnalyticalGraphicsInc/czml-writer/releases).
+Binary releases are available for download on the [releases page](https://github.com/NextechGS/czml-writer/releases).
 
 ### Get Started ###
 
